@@ -53,15 +53,15 @@
     <dimen name="config_key_hint_letter_padding">1dp</dimen>
     <dimen name="config_key_shifted_letter_hint_padding">2dp</dimen>
 
-    <dimen name="config_suggestions_strip_height">40dp</dimen>
-    <dimen name="config_suggestions_strip_edge_key_width">36dp</dimen>
-    <dimen name="config_more_suggestions_row_height">40dp</dimen>
-    <integer name="config_max_more_suggestions_row">6</integer>
-    <fraction name="config_min_more_suggestions_width">90%</fraction>
-    <dimen name="config_suggestion_min_width">44dp</dimen>
-    <dimen name="config_suggestion_text_horizontal_padding">6dp</dimen>
-    <dimen name="config_suggestion_text_size">18dp</dimen>
-    <dimen name="config_more_suggestions_hint_text_size">27dp</dimen>
+    <dimen name="config_suggestions_strip_height">0dp</dimen>
+    <dimen name="config_suggestions_strip_edge_key_width">0dp</dimen>
+    <dimen name="config_more_suggestions_row_height">0dp</dimen>
+    <integer name="config_max_more_suggestions_row">0</integer>
+    <fraction name="config_min_more_suggestions_width">0%</fraction>
+    <dimen name="config_suggestion_min_width">0dp</dimen>
+    <dimen name="config_suggestion_text_horizontal_padding">0dp</dimen>
+    <dimen name="config_suggestion_text_size">0dp</dimen>
+    <dimen name="config_more_suggestions_hint_text_size">0dp</dimen>
 
     <!-- Gesture floating preview text parameters -->
     <dimen name="config_gesture_floating_preview_text_size">24dp</dimen>
