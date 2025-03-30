@@ -11,7 +11,7 @@ punctuation !fixedColumnOrder!7  ٕ|ٕ  ْ|ْ  ّ|ّ  ٌ|ٌ  ٍ|ٍ  ً|ً  ٔ|ٔ
 
 [labels]
 alphabet: ا‌ب‌پ
-symbol: ۳۲۱؟
+
 comma: ،
 question: ؟
 
