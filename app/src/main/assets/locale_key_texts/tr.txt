@@ -1,5 +1,6 @@
 [popup_keys]
 a â
+e ə
 ı i î
 i ı î
 o ö
@@ -9,4 +10,4 @@ g ğ
 c ç
 
 [tlds]
-tr gov.tr edu.tr com.tr
+tr gov edu com
